@@ -27,7 +27,7 @@ Employees living farther from the office show slightly higher attrition, especia
 13. Gender‑wise Attrition 
 Attrition is slightly higher among males/females (depends on your dataset), showing a small gender‑based variation.
 
-Executive Summary – Employee Attrition Analysis
+**Executive Summary – Employee Attrition Analysis**
 
 Employee attrition remains a significant challenge, with 237 employees leaving out of a 1,470‑member workforce. The analysis reveals that turnover is not random—it is strongly influenced by specific demographic, behavioural, and job‑related factors.
 
