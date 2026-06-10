@@ -27,5 +27,14 @@ Employees living farther from the office show slightly higher attrition, especia
 13. Gender‑wise Attrition 
 Attrition is slightly higher among males/females (depends on your dataset), showing a small gender‑based variation.
 
-**Executive Summary**
-Employee attrition is primarily driven by younger-mid employees, high‑travel roles, overtime workload, and lower income levels. Departments such as Sales and R&D show higher turnover, especially in roles like Sales Representative and Laboratory Technician. Employees with low job satisfaction and those in their first two years at the company are at the highest risk of leaving. These insights highlight the need for improved onboarding, workload management, and compensation strategies to reduce tur
+Executive Summary – Employee Attrition Analysis
+
+Employee attrition remains a significant challenge, with 237 employees leaving out of a 1,470‑member workforce. The analysis reveals that turnover is not random—it is strongly influenced by specific demographic, behavioural, and job‑related factors.
+
+Attrition is highest among mid‑career employees (ages 30–45) and those in their first two years at the company, signalling issues with career progression, onboarding effectiveness, and early engagement. Departments such as Sales and Research & Development show elevated turnover, particularly in roles like Sales Representative, Laboratory Technician, and Research Scientist, indicating role‑specific pressures and potential gaps in support or development opportunities.
+
+Workload imbalance emerges as a major driver: employees working overtime and those with frequent business travel show significantly higher attrition, highlighting concerns around work‑life balance. Compensation also plays a critical role—lower‑income employees are more likely to leave, suggesting the need for competitive pay structures. Additionally, employees reporting low job satisfaction (levels 1–2) exhibit the highest attrition, reinforcing the importance of employee experience and engagement.
+
+Distance from home shows a moderate impact, particularly for travel‑heavy roles, while gender‑based differences in attrition remain minimal.
+
+Overall, the findings point to a combination of workload, compensation, job satisfaction, and early‑stage employee experience as the primary drivers of turnover. Addressing these areas through improved onboarding, targeted retention programs, workload management, and competitive compensation strategies will be essential for reducing attrition and strengthening long‑term workforce stability.
